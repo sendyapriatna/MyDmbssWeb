@@ -1,0 +1,22 @@
+* {
+  font-family: "Montserrat";
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+/*body{
+  background: url(../img/header.png);
+  background-repeat: no-repeat;
+  background-size: 1920px;
+  backdrop-filter: blur(50px);
+}*/
+section {
+  position: relative;
+  width: 100%;
+  padding: 100px;
+  min-height: 100vh;
+  display: flex;
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+}
